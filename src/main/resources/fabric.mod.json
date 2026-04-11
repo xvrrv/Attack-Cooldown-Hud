@@ -6,7 +6,7 @@
   "description": "Muestra el cooldown de ataque en porcentaje en la pantalla.",
   "authors": ["xvrrv"],
   "contact": {
-		"sources": "https://github.com/xvrrv/CList"
+		"sources": "https://github.com/xvrrv/Attack-Cooldown-Hud"
   },
   "license": "MIT",
   "icon": "assets/attack-cooldown-hud/icon.png",
@@ -21,7 +21,7 @@
   ],
   "depends": {
     "fabricloader": ">=0.18.6",
-	"minecraft": "~26.1.1",
+	"minecraft": "~26.1",
 	"java": ">=25",
     "fabric-api": "*"
   }
